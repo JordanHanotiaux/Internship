@@ -1,0 +1,381 @@
+air conditioner
+airplane
+ambulance
+american football
+antelope
+apple
+asparagus
+avocado
+awning
+backpack
+balloon
+banana
+baozi
+barbell
+barrel
+baseball
+baseball bat
+baseball glove
+basin
+basket
+basketball
+bathtub
+bear
+bed
+belt
+bench
+bicycle
+billiards
+binoculars
+blackboard
+blender
+board eraser
+boat
+book
+boots
+bottle
+bow tie
+bowl
+bracelet
+bread
+briefcase
+broccoli
+broom
+brush
+bucket
+bus
+butterfly
+cabbage
+cabinet
+cake
+calculator
+camel
+camera
+candle
+candy
+canned
+car
+carpet
+carriage
+carrot
+cat
+cd
+cell phone
+cello
+chainsaw
+chair
+cheese
+cherry
+chicken
+chips
+chopping board
+chopsticks
+cigar
+cigarette
+cleaning products
+clock
+coconut
+coffee machine
+coffee table
+comb
+computer box
+converter
+cookies
+corn
+cosmetics
+cosmetics brush
+cosmetics mirror
+couch
+cow
+crab
+crane
+crosswalk sign
+cucumber
+cue
+cup
+curling
+cutting
+cymbal
+deer
+desk
+dessert
+dining table
+dishwasher
+dog
+dolphin
+donkey
+donut
+drum
+drying machine
+duck
+dumbbell
+dumpling
+durian
+earphone
+egg
+egg tart
+eggplant
+electric drill
+elephant
+eraser
+extension cord
+extractor
+eyeliner pencil
+fan
+faucet
+fire extinguisher
+fire hydrant
+fire truck
+fishing rod
+flag
+flask
+flower
+flute
+folder
+fork
+formula 1
+frame
+french
+french fries
+frisbee
+game board
+garlic
+gas stove
+giraffe
+glasses
+globe
+gloves
+goldfish
+golf ball
+golf club
+goose
+grape
+grapefruit
+green beans
+green onion
+green vegetables
+guitar
+gun
+hair dryer
+hamburger
+hami melon
+hammer
+handbag
+hanger
+hat
+head phone
+heavy truck
+helicopter
+helmet
+high heels
+hockey stick
+horse
+hot dog
+hot-air balloon
+hoverboard
+hurdle
+ice cream
+induction cooker
+jellyfish
+jug
+kettle
+key
+keyboard
+kite
+kiwi fruit
+knife
+ladder
+lamp
+lantern
+laptop
+leather shoes
+lemon
+lettuce
+lifesaver
+lighter
+lion
+lipstick
+lobster
+luggage
+machinery vehicle
+mango
+marker
+mask
+meatball
+medal
+megaphone
+microphone
+microwave
+mirror
+modem
+monitor
+monkey
+mop
+motorcycle
+mouse
+mushroom
+napkin
+necklace
+nightstand
+noddles
+notepaper
+nuts
+okra
+onion
+orange
+other balls
+other fish
+other shoes
+oven
+oyster
+paddle
+paint brush
+papaya
+parking meter
+parrot
+pasta
+peach
+pear
+pen
+pencil
+pencil case
+penguin
+pepper
+person
+piano
+pickup truck
+picture
+pie
+pig
+pigeon
+pillow
+pineapple
+pizza
+plate
+pliers
+plum
+poker card
+pomegranate
+pot
+potato
+potted plant
+power outlet
+printer
+projector
+pumpkin
+purse
+rabbit
+radiator
+radish
+recorder
+red cabbage
+refrigerator
+remote
+rice
+rice cooker
+rickshaw
+ring
+router
+ruler
+sailboat
+sandals
+sandwich
+satchel
+sausage
+saxophone
+scale
+scallop
+scissors
+scooter
+screwdriver
+seal
+sheep
+shelf
+ship
+shovel
+showerhead
+shrimp
+side table
+sink
+skateboard
+skating and skiing shoes
+skiboard
+slide
+slippers
+sneakers
+snowboard
+soap
+soccer
+speaker
+speed limit sign
+spoon
+sports car
+spring rolls
+stapler
+steak
+stool
+stop sign
+storage box
+strawberry
+street lights
+stroller
+stuffed toy
+surfboard
+surveillance camera
+sushi
+suv
+swan
+swing
+table tennis
+table tennis paddle
+tablet
+tangerine
+tape
+tape measure
+target
+tea pot
+telephone
+tennis
+tennis racket
+tent
+tie
+tissue
+toaster
+toilet
+toilet paper
+toiletry
+tomato
+tong
+toothbrush
+towel
+traffic cone
+traffic light
+traffic sign
+train
+trash bin can
+treadmill
+tricycle
+tripod
+trolley
+trombone
+trophy
+truck
+trumpet
+tuba
+tv
+umbrella
+urinal
+van
+vase
+violin
+volleyball
+wallet
+washing machine
+watch
+watermelon
+wheelchair
+whiteboard
+wild bird
+wine glass
+yak
+zebra
